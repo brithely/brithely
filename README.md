@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Boro
+- Python Developer, Data Engineering etc..
 
 
 <!---
