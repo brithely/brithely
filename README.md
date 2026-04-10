@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boro
+- 👋 Hi, I’m Jung SeungRyong
 - Python Developer, Data Engineering etc..
 
 
